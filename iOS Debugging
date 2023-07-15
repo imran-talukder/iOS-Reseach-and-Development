@@ -1,3 +1,1 @@
-Break point debugging:
-      Real time ui change in simulator command: "expression self.view.backgroundColor = .green"
-                                  after that update ui by this "expression CATransaction.flush()"
+https://docs.google.com/document/d/1l-NYjb1MMsd506D7Hx5EPy68LNxfc8-sd25hCJI2YEQ/edit
