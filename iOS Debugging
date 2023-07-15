@@ -1,4 +1,3 @@
-iOS Debuging:
-  Break point debugging:
+Break point debugging:
       Real time ui change i simulator command: "expression self.view.backgroundColor = .green"
                                   after that update ui by this "expression CATransaction.flush()"
